@@ -1,4 +1,4 @@
-# project_a
+# CalculateIt
 
 A new Flutter project.
 
